@@ -13,7 +13,7 @@ body {
   background-color:#f4f4f4;
 }
 header {
-  background-color:#00ff73;
+  background-color:#0044ff;
   color:#fff;
   text-align:center;
   padding:1rem;
@@ -35,7 +35,7 @@ h2 h3{
 .product-intro img {
   max-width:100%;
   height:auto;
-  border:2px solid #00ff40
+  border:2px solid #1726ec
   border-radius:5px;
 }
 .product-features ul{
@@ -107,7 +107,7 @@ button:hover{
   margin-top:1rem;
 }
 footer{
-  background-color:#556b2f;
+  background-color:#13b3cf;
   color:#fff
   padding:1rem;
   margin-top:2rem;
